@@ -18,10 +18,10 @@ public class DirectoryBrowser {
     public void go(){
        Scanner in = new Scanner(System.in);
        file = new File(System.getProperty("user.dir"));
-       System.out.println("Welcome to Seashell!");
+       System.out.println("Welcome to My File Browser!");
        selection = "";
        while(!selection.equalsIgnoreCase("e") && !selection.equalsIgnoreCase("exit")){
-           System.out.print("Seashell>");
+           System.out.print("FileBrowser>");
            selection = in.nextLine();
            doTask(selection);
        }
