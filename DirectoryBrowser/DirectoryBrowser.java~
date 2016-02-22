@@ -21,10 +21,10 @@ public class FileBrowser {
     public void go(){
        Scanner in = new Scanner(System.in);
        file = new File(System.getProperty("user.dir"));
-       System.out.println("Welcome to My Directory Browser!");
+       System.out.println("Welcome to My File Browser!");
        selection = "";
        while(!selection.equalsIgnoreCase("e")){
-           System.out.print("DirectoryBrowser>");
+           System.out.print("FileBrowser>");
            selection = in.nextLine();
            doTask(selection);
        }
