@@ -1,0 +1,17 @@
+barista.jpeg;Chi e'?;l'insegnante;il cane;il cuoco;Il barista
+gli stivali.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;gli stivali
+il berretto.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;il berretto
+la sciarpa.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;la sciarpa
+la giacca.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;la giacca
+i jeans.PNG;Che Cos'e?;gli stivali;la maglia;le scarpe;i jeans
+la camicia.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;la camicia
+il vestito.PNG;Che Cos'e?;i jeans;la maglia;le scarpe;il vestito
+le scarpe.PNG;Che Cos'e?;i jeans;la maglia;il berretto;le scarpe
+la maglia.PNG;Che Cos'e?;i jeans;la camicia;le scarpe;la maglia
+dressed.jpg;Che cosa fa questo bambino?;si lava i denti;lui cucina;si lava i capelli;questo bambino si veste
+fork.jpg;Che cos'e?;un piatto;una ciotola;un cucchiaio;una forchetta
+spoon.jpg;Che cos'e?;un piatto;una ciotola;una forchetta;un cucchiaio
+makeup.jpg;Che cosa fa questa ragazza?;questa ragazza sveglia;questa ragazza canta;questa ragazza balla;questa ragazza si trucca
+un cane.jpg;Che cos'e?;un uccello;un topo;un gatto;un cane
+wakeup.jpg;Che cosa fa questa ragazza?;questa ragazza si trucca;questa ragazza balla;questa ragazza canta;questa ragazza sveglia
+teeth.jpeg;Che cosa fa questo bambino?;lui guarda la tv;lui cucina;si lava i capelli;si lava i denti

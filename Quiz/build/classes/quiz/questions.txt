@@ -1,0 +1,10 @@
+bluepepe.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+curse.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+guns.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+heidi.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+jebpepe.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+maga.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+sharia.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+sanders.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+pete.jpg;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
+wish.png;Is this a meme?;NOT a meme;Not A meme;Not a MEME;A meme
