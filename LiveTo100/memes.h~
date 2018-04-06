@@ -1,0 +1,10 @@
+#ifndef MEMES_H
+#define MEMES_H
+
+#include <vector>
+using namespace std;
+void calculateSolutions(vector<Recipe> & mix);
+void printSolutions(vector<Recipe> & mix);
+bool contains(vector<Recipe> & mix, Recipe & meme);
+
+#endif
